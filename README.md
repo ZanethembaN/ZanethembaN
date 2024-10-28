@@ -19,12 +19,19 @@ Engaged in real-world projects and industry best practices, preparing for a vers
 
 ## 💻 Technical Skills
 **Languages**: Python, Java, JavaScript
+
 **Cloud Platforms**: AWS, Azure
+
 **Databases**: MySQL, PostgreSQL, MongoDB
+
 **Development Tools**: Git, GitHub, Docker, Apache Maven
+
 **Testing**: Unit testing, Acceptance testing, Integration testing
+
 **API Design**: RESTful APIs, JSON
+
 **DevOps**: CI/CD practices
+
 
 ## 🛠️ Projects
 **-Coding Clinic Booking System**
