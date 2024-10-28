@@ -18,7 +18,7 @@ Gained proficiency in programming languages such as Python, Java, and JavaScript
 Engaged in real-world projects and industry best practices, preparing for a versatile career as a software engineer.
 
 ## 💻 Technical Skills
-**Languages**: Python, Java, JavaScript
+**Languages**: Python, Java, JavaScript, HTML/CSS
 
 **Cloud Platforms**: AWS, Azure
 
@@ -39,22 +39,32 @@ Collaborated in a team to build an end-to-end console-based system for managing 
 Implemented a student support system using the Google Calendar API.
 Developed using Python, focusing on modularization and test-driven development.
 
+
 **-RobotWorlds Network-Based Game**
 Developed a multiplayer robot combat game featuring customizable robots and dynamic environments.
 Applied object-oriented programming principles and implemented client-server communication using Java socket programming.
-🏆 Achievements
-Bxrdeless Hackathon Winner
+
+
+## 🏆 Achievements
+**Bxrdeless Hackathon Winner**
 2024/08/31
 Participated in a hackathon focused on using geospatial data to tackle flooding in Africa. My team, Geo-Innovators, developed a web-based solution for flood monitoring and early warning systems.
 
 ## 📊 Popular Repositories
 **NumberGuessingGame**: Java number guessing game with user-defined range.
+
 **ToyRobot**: Toy Robot Maze Runner with modular maze generation and navigation features.
+
 **To_do_List**: Simple task management application.
+
 **RockPaperScissors**: Command-line implementation of the classic game.
+
 **PassWordGenerator**: Java application for creating strong, customizable passwords.
 
+
 ## 🌐 Connect with Me
-**LinkedIn**: zanethemba-ngwenya
+**LinkedIn**: [www.linkedin.com/in/zanethemba-ngwenya](https://www.linkedin.com/in/zanethemba-ngwenya)
+
 **Email**: zanethemba.ngwenya.work@gmail.com
+
 **Phone**: 071-063-1608
