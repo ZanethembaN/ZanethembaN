@@ -65,6 +65,6 @@ Participated in a hackathon focused on using geospatial data to tackle flooding 
 ## 🌐 Connect with Me
 **LinkedIn**: [www.linkedin.com/in/zanethemba-ngwenya](https://www.linkedin.com/in/zanethemba-ngwenya)
 
-**Email**: zanethemba.ngwenya.work@gmail.com
+**Email**: zngwenya023@student.wethinkcode.co.za
 
 **Phone**: 071-063-1608
