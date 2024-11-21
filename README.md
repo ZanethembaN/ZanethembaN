@@ -69,4 +69,4 @@ Participated in a hackathon focused on using geospatial data to tackle flooding 
 
 **Phone**: 071-063-1608
 
-**Portfolio**: [https://zanethemban.github.io](https://https://zanethemban.github.io)
+**Portfolio**: [https://zanethemban.github.io/](https://zanethemban.github.io/)
