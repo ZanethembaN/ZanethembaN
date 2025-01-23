@@ -35,9 +35,7 @@ Engaged in real-world projects and industry best practices, preparing for a vers
 
 ## 🛠️ Projects
 **-Coding Clinic Booking System**
-Collaborated in a team to build an end-to-end console-based system for managing Code Clinics at WeThinkCode.
-Implemented a student support system using the Google Calendar API.
-Developed using Python, focusing on modularization and test-driven development.
+Collaborated in a team to design and implement an end-to-end console-based application for managing Code Clinics at WeThinkCode. Built a robust student support system integrated with the Google Calendar API for seamless scheduling. Leveraged modular design principles and adhered to test-driven development methodologies to ensure maintainability and reliability.
 
 
 **-RobotWorlds Network-Based Game**
